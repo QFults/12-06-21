@@ -1,0 +1,24 @@
+{
+  "name": "12-06-21",
+  "version": "1.0.0",
+  "description": "- Intro to Inquirer and Axios\r - Intro to Constructors",
+  "main": "movie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/12-06-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/12-06-21/issues"
+  },
+  "homepage": "https://github.com/QFults/12-06-21#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "inquirer": "^8.2.0"
+  }
+}
